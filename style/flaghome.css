@@ -172,7 +172,6 @@ nav a.time {
 }
 
 nav a.active, nav a:hover {
-    text-decoration: underline;
     opacity:1
 }
 
